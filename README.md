@@ -35,9 +35,19 @@ Here are some ideas to get you started:
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)-->
 
 ## 🛠️ My Skills
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), TypeScript, Java
-- **Frameworks**: NestJS, Express, Springboot
-- 
+## 🛠️ My Skills
+- **Languages** : 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- **Frameworks** : 
+  ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+  ![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?logo=springboot&logoColor=white)
+- **DB** : 
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+
 
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carpe-horas&theme=tokyonight&exclude=carpe-horas.github.io)
 
