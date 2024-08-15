@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)-->
 
-## 🛠️ My Skills
+
 ## 🛠️ My Skills
 - **Languages** : 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -47,6 +47,11 @@ Here are some ideas to get you started:
 - **DB** : 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
   ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+- **DevOps & Tools** : 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
 
 
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carpe-horas&theme=tokyonight&exclude=carpe-horas.github.io)
