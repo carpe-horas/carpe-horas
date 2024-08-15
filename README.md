@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
   ![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?logo=springboot&logoColor=white)
-- **DB** : 
+- **Databases** : 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
   ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 - **DevOps & Tools** : 
