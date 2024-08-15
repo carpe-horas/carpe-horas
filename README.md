@@ -37,5 +37,6 @@ Here are some ideas to get you started:
 </a>
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carpe-horas&theme=tokyonight)
 
 
