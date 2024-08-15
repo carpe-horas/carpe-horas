@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 
 <br><br>
 ## 🌈 Contact 🌈
-- Mail &nbsp;: &nbsp;
-<a href="mailto:belicia1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=belicia1226@gmail.com"/></a>
+- <a href="mailto:belicia1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=belicia1226@gmail.com"/></a> &nbsp;: &nbsp;
+belicia1226@gmail.com
 
 
 <br><br>
