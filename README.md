@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 ![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&theme=tokyonight" width="48%" height="200" />
