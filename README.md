@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ## 📊 My GitHub Stats
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&theme=tokyonight" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&theme=tokyonight" width="48%"/>
 </a>
 
 <!--
