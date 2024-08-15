@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)-->
 
-<br><br><br>
+<br><br>
 ## 🛠️ My Skills
 - **Languages** : 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
 
-<br><br><br>
+<br><br>
 ## 📊 My GitHub Stats
 
 <a href="s">
