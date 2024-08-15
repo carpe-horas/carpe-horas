@@ -52,9 +52,12 @@ Here are some ideas to get you started:
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&theme=tokyonight" width="48%" height="200" />
 </a>
+
+<!--
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&theme=tokyonight&show_icons=true&bg_color=00000000" width="48%" height="200" />
 </a>
+-->
 
 <br><br>
 ## 🎉 Fun Facts or Hobbies
