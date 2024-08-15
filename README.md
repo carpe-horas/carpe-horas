@@ -36,11 +36,15 @@ Here are some ideas to get you started:
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
   ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
   
-- **DevOps & Tools** : 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
+- **DevOps**:
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+- **Tools**:
+  ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
+  ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
+  ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+
 
 <br><br>
 ## 📊 My GitHub Stats
