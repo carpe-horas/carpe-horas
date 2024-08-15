@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)-->
 
 ## 🛠️ My Skills
-- **Languages**: JavaScript, TypeScript, Java
-- **Frameworks**: NestJS, Express,
+- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), TypeScript, Java
+- **Frameworks**: NestJS, Express, Springboot
+- 
 
 ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carpe-horas&theme=tokyonight&exclude=carpe-horas.github.io)
 
