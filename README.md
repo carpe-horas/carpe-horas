@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Song-i Baek! 👋
 
 <!--
 **carpe-horas/carpe-horas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,20 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<!--
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=carpe-horas&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=carpe-horas&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&show_icons=true" />
-</picture>
 -->
 
 ![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
@@ -54,7 +40,7 @@ Here are some ideas to get you started:
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
 
 
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carpe-horas&theme=tokyonight&exclude=carpe-horas.github.io)
+## 📊 My GitHub Stats
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&theme=tokyonight" width="48%" height="200" />
