@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 <br><br>
 ## 🎉 Fun Facts or Hobbies
 
-- I enjoy **painting traditional East Asian ink art** (문인화). It's a peaceful and creative outlet that allows me to connect with cultural heritage.
+- I enjoy **painting traditional East Asian ink art** (문인화). It's a peaceful activity that helps me relieve stress and find new beginnings through meditation and reflection.
 - Unlike most developers, **I don't like coffee**! I prefer tea or a good fruit juice to keep me energized while coding.
 
 
-
+<br><br>
