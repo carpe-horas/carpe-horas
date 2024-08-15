@@ -45,9 +45,18 @@ Here are some ideas to get you started:
 <br><br>
 ## 📊 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&theme=tokyonight" width="48%" height="200" />
-<img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&theme=tokyonight&show_icons=true&bg_color=00000000" width="48%" height="200" />
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&theme=tokyonight" width="48%" height="200" />
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&theme=tokyonight&show_icons=true&bg_color=00000000" width="48%" height="200" />
+</a>
 
+<br><br>
+## 🎉 Fun Facts or Hobbies
+
+- I enjoy **painting traditional East Asian ink art** (문인화). It's a peaceful and creative outlet that allows me to connect with cultural heritage.
+- Unlike most developers, **I don't like coffee**! I prefer tea or a good fruit juice to keep me energized while coding.
 
 
 
