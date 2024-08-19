@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 - **Tools** &nbsp;: &nbsp;
   ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
   ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
+  ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
   ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
 
