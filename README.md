@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 ## 🛠️ My Skills
 - **Languages** &nbsp;: &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
- <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)-->
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  
+ <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)-->
+ 
 - **Frameworks** &nbsp;: &nbsp;
   ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
