@@ -25,26 +25,27 @@ Here are some ideas to get you started:
 - **Languages** &nbsp;: &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
    ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-00B3E0?logo=python&logoColor=white)
  <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)-->
  
 - **Frameworks** &nbsp;: &nbsp;
   ![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?logo=springboot&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-FD415E?logo=django&logoColor=white)
   <!--![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)-->
   
 - **Databases** &nbsp;: &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-58A616?logo=mysql&logoColor=white)
+  ![MONGO](https://img.shields.io/badge/-Mongo-00C4CC?logo=mysql&logoColor=white)
+   <!--![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)-->
   
 - **DevOps** &nbsp;: &nbsp;
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-FF5100?logo=amazon-aws&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 - **Libraries & Tools** &nbsp;: &nbsp;
-  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFB100?logo=machinelearning&logoColor=white)
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-E40046?logo=machinelearning&logoColor=white)
   ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-764ABC?logo=deeplearning&logoColor=white)
    ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
   ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  
