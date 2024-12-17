@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - **Frameworks** &nbsp;: &nbsp;
   ![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?logo=springboot&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
   <!--![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)-->
   
@@ -42,12 +43,25 @@ Here are some ideas to get you started:
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-- **Tools** &nbsp;: &nbsp;
+- **Libraries & Tools** &nbsp;: &nbsp;
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFB100?logo=machinelearning&logoColor=white)
+  ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-764ABC?logo=deeplearning&logoColor=white)
+   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  
+
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-9C27B0?logo=python&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
+- **Collaboration Tools** &nbsp;: &nbsp;
   ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
   ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)
   ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
-  ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
+  <!--![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)-->
 
 
 <br><br>
