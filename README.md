@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="#">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carpe-horas&theme=merko" width="90%" height="400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carpe-horas&theme=merko"/>
 </a>
 <br><br>
 
