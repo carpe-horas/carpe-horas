@@ -72,13 +72,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&theme=tokyonight"/>
 </a>
 
-<!--
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&theme=tokyonight&show_icons=true&bg_color=00000000" width="48%" height="200" />
-</a>
--->
 
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&theme=tokyonight&show_icons=true&bg_color=00000000" width="50%" height="165" />
+</a>
 <br><br>
+
+
 ## 🎉 Fun Facts or Hobbies
 
 - I enjoy **painting traditional East Asian ink art** (문인화).<br>
@@ -92,9 +92,9 @@ Here are some ideas to get you started:
 belicia1226@gmail.com
 
 
-<br><br>
+<br>
 
-
+[![Hits](https://hits.sh/github.com/carpe-horas.svg?style=plastic&label=visitors&color=dfb317)](https://hits.sh/github.com/carpe-horas/)
 
 
 
