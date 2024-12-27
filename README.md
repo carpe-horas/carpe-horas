@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&theme=dracula&show_icons=true&bg_color=00000000&hide=issues,stars" width="52%" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&theme=dracula&show_icons=true&bg_color=00000000&hide=issues,stars"/>
 </a>
 
 <a href="#">
