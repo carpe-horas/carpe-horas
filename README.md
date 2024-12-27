@@ -76,7 +76,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&theme=tokyonight&show_icons=true&bg_color=00000000" width="50%" height="165" />
 </a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="#">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carpe-horas&theme=merko" width="750" height="400" />
 </a>
 <br><br>
