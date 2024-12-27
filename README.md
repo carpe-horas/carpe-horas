@@ -66,17 +66,21 @@ Here are some ideas to get you started:
 
 
 <br><br>
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats  &nbsp;&nbsp;&nbsp;  [![Hits](https://hits.sh/github.com/carpe-horas.svg?style=plastic&label=visitors&color=dfb317)](https://hits.sh/github.com/carpe-horas/)  
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&theme=tokyonight"/>
 </a>
 
-
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&theme=tokyonight&show_icons=true&bg_color=00000000" width="50%" height="165" />
 </a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carpe-horas&theme=merko" width="750" height="400" />
+</a>
 <br><br>
+
 
 
 ## 🎉 Fun Facts or Hobbies
@@ -92,9 +96,4 @@ Here are some ideas to get you started:
 belicia1226@gmail.com
 
 
-<br>
-
-[![Hits](https://hits.sh/github.com/carpe-horas.svg?style=plastic&label=visitors&color=dfb317)](https://hits.sh/github.com/carpe-horas/)
-
-
-
+<br><br><br>  
