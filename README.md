@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 
 <br><br>
-## 📊 My GitHub Stats  &nbsp;&nbsp;&nbsp;  [![Hits](https://hits.sh/github.com/carpe-horas.svg?style=plastic&label=visitors&color=dfb317)](https://hits.sh/github.com/carpe-horas/)  
+## 📊 My GitHub Stats  <!--&nbsp;&nbsp;&nbsp;  [![Hits](https://hits.sh/github.com/carpe-horas.svg?style=plastic&label=visitors&color=dfb317)](https://hits.sh/github.com/carpe-horas/) --> 
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&theme=tokyonight"/>
