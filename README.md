@@ -24,16 +24,17 @@ Here are some ideas to get you started:
 ## 🛠️ My Skills
 - **Languages** &nbsp;: &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+   <!--![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)-->
   ![Python](https://img.shields.io/badge/-Python-00B3E0?logo=python&logoColor=white)
  <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)-->
  
 - **Frameworks** &nbsp;: &nbsp;
-  ![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?logo=springboot&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+  ![Flask](https://img.shields.io/badge/-Flask-FF6347?logo=flask&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-FD415E?logo=django&logoColor=white)
   <!--![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)-->
+  <!--![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?logo=springboot&logoColor=white)-->
   
 - **Databases** &nbsp;: &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-58A616?logo=mysql&logoColor=white)
