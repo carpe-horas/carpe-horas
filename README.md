@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&theme=dracula&show_icons=true&bg_color=b67bbf&hide=issues,stars"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&count_private=true&theme=monokai&show_icons=true&hide=issues,stars"/>
 </a>
 
 <a href="#">
