@@ -104,6 +104,6 @@ belicia1226@gmail.com
 
 <br><br><br>  
 
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carpe-horas&repo=github-readme-stats)](https://github.com/carpe-horas/github-readme-stats)
--->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carpe-horas&repo=Auction-Predictions)](https://github.com/carpe-horas/Auction-Predictions)
+
