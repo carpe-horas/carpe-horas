@@ -72,6 +72,11 @@ Here are some ideas to get you started:
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&theme=tokyonight"/>
 </a>
+<!--
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&hide=Jupyter%20Notebook&theme=tokyonight"/>
+</a>
+-->
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&count_private=true&theme=monokai&show_icons=true&hide=issues,stars"/>
@@ -98,3 +103,7 @@ belicia1226@gmail.com
 
 
 <br><br><br>  
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carpe-horas&repo=github-readme-stats)](https://github.com/carpe-horas/github-readme-stats)
+-->
