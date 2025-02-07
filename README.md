@@ -69,6 +69,7 @@ Here are some ideas to get you started:
 <br><br>
 ## 📊 My GitHub Stats  <!--&nbsp;&nbsp;&nbsp;  [![Hits](https://hits.sh/github.com/carpe-horas.svg?style=plastic&label=visitors&color=dfb317)](https://hits.sh/github.com/carpe-horas/) --> 
 
+<!-- Most Used Languages -->
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carpe-horas&exclude_repo=carpe-horas.github.io&layout=compact&hide=Jupyter%20Notebook&theme=tokyonight"/>
 </a>
@@ -79,10 +80,12 @@ Here are some ideas to get you started:
 </a>
 -->
 
+<!-- Github stats -->
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=carpe-horas&count_private=true&theme=monokai&show_icons=true&hide=issues,stars"/>
 </a>
 
+<!-- Contribution Graph -->
 <a href="#">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carpe-horas&theme=merko"/>
 </a>
@@ -101,10 +104,9 @@ Here are some ideas to get you started:
 ## 🌈 Contact 🌈
 - <a href="mailto:belicia1226@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=belicia1226@gmail.com"/></a> &nbsp;: &nbsp;
 belicia1226@gmail.com
-<!--
 - <a href="https://mercifulcloud.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF6600?style=flat-square&logo=Tistory&logoColor=white&link=https://mercifulcloud.tistory.com/"/></a> &nbsp;: &nbsp;
-[블로그 방문하기](https://mercifulcloud.tistory.com/)
--->
+[Visit Blog](https://mercifulcloud.tistory.com/)
+
 
 <br><br><br>  
 
