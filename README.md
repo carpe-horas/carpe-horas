@@ -31,8 +31,11 @@ Here are some ideas to get you started:
 - **Frameworks** &nbsp;: &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-FF6347?logo=flask&logoColor=white)
+
+<!--!
   ![Django](https://img.shields.io/badge/-Django-FD415E?logo=django&logoColor=white)
-  <!--![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+-->  
+<!--![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)-->
   <!--![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?logo=springboot&logoColor=white)-->
   
@@ -107,7 +110,7 @@ belicia1226@gmail.com
 - <a href="https://mercifulcloud.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF6600?style=flat-square&logo=Tistory&logoColor=white&link=https://mercifulcloud.tistory.com/"/></a> &nbsp;: &nbsp;
 [Visit Blog](https://mercifulcloud.tistory.com/)
 
-
+<!--!
 <br><br><br>  
 
 <!--!
