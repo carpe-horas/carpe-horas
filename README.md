@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)-->
 
 <br><br>
@@ -48,18 +47,17 @@ Here are some ideas to get you started:
   ![AWS](https://img.shields.io/badge/-AWS-FF5100?logo=amazon-aws&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-- **Libraries & Tools** &nbsp;: &nbsp;
-  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-E40046?logo=machinelearning&logoColor=white)
-  ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-764ABC?logo=deeplearning&logoColor=white)
-   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  
+- **ML/DL & Tools** &nbsp;: &nbsp;
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/-LangChain-1E4A66?logo=langchain&logoColor=white)
 
+- **Data Analysis** &nbsp;: &nbsp;
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-9C27B0?logo=python&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
 - **Collaboration Tools** &nbsp;: &nbsp;
   ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
@@ -93,6 +91,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carpe-horas&theme=merko"/>
 </a>
 <br><br>
+
+<!-- Solved.ac 뱃지 -->
+<!--![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=blood1226)-->
+<!-- 백준 랭킹 카드 스타일 -->
+<!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=blood1226&theme=dark)-->
 
 
 
